@@ -1,4 +1,6 @@
 Creating_curves
 ===============
 
-Creating and storing curves in tables
+Creating and storing exponential and logarithmic curves in tables
+
+Made by Alexandros Drymonitis
